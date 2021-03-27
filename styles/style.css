@@ -1,26 +1,7 @@
-#header{
-background:darkred;
-width:715px;
-height:100px;
+body{
+margin:0px;
 }
-#menu{
-background:oldlace;
-width:190px;
-height:300px;
-}
-#content{
-background:oldlace;
-width:525px;
-height:300px;
-position:absolute;
-left:190px;
-top:100px;
-}
-#footer{
-background:darkred;
-width:715px;
-height:30px;
-}
+
 
 
 
